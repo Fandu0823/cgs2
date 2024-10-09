@@ -34,7 +34,7 @@ ALTER TABLE `toDoList`
   ADD UNIQUE KEY `Tugas` (`Tugas`);
 
 --
--- AUTO_INCREMENT untuk tabel yang dibuang
+-- AUTO_INCREMENT untuk tabel yang dibuangggggggg
 --
 
 --
